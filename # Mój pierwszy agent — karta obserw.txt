@@ -1,0 +1,12 @@
+# Mój pierwszy agent — karta obserwacji
+
+- Narzędzie i model: antigravity ide Claude opus 4.6
+- Moje zadanie (2–3 zdania): zrob stoper
+- Pierwsza wiadomość (wklejona co do znaku): zrob prosty stoper
+- Co agent zrobił najpierw: stoper
+- O co pytał — i co zostało zatwierdzone bez czytania: o nic
+- Pierwszy błąd i co agent z nim zrobił: nie było bledu
+- Stan po 25 minutach: działa 
+- Skąd wiem, że aplikacja działa (co zostało sprawdzone): odpaliłem stoper działał jak powinien
+- Rzeczy, które agent zrobił, a których nie rozumiem: nic
+- Jak mi się wydawało, że poszło (jedno zdanie): dobrze
